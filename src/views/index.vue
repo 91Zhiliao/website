@@ -197,7 +197,7 @@ export default {
   width: 100%;
   height: 790px;
   background: url(../assets/img/banner.png) no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 .service{
   width: 100%;

@@ -30,7 +30,7 @@ p{
 }
   .footer {
     width: 100%;
-    min-width: 1200px;
+    min-width: 1280px;
     z-index: 10;
     color: #969696;
     background-color: #f3f5f8;
